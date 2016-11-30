@@ -13,3 +13,11 @@ Describe the differences between forks, clones, and branches. When would you use
 	Fork is used to copy a reposiitory within GitHub
 	Branch is used to make changes without disrupting another running line of changes on another branch, typically master.
 	
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	
+	Allows for comparison between your local changes and the last state as well as changes between the last known local and a fetched version of the remote.
+	
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Now that I'm getting familiar with git I don't know what I would do.  Probably just have a common folder that everyone just makes changes to.  Pull down local copies and do your work then replace the files in the common folder when you are really happy with your work.  Maybe faster in the short term but much harder overall when you start running into conflicting changes.
+
