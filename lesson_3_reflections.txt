@@ -21,3 +21,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 	Now that I'm getting familiar with git I don't know what I would do.  Probably just have a common folder that everyone just makes changes to.  Pull down local copies and do your work then replace the files in the common folder when you are really happy with your work.  Maybe faster in the short term but much harder overall when you start running into conflicting changes.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	If the change could break features in master or is experimental and you don't want to disrupt the main working version of the project.
+	Working in multiple branches allows for feature sets to be evaluated before being pulled into the main version.  People can work more independently until their part is ready.
+	
